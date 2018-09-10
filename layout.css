@@ -392,12 +392,13 @@ header img {
     margin-top: 8%;
 }
 #logoLogin {
-    width: 15em;
+    width: 18em;
     margin-bottom: 5em;
+    margin-left: 4em;
 }
 #rememberLabel {
     float: right;
-    margin-right: 45     %;
+    margin-right: 44%;
 }
 #divSubmit {
     margin-top: 0em;
@@ -438,6 +439,7 @@ header img {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    margin-left: -2em;
     
 }
 
@@ -452,9 +454,9 @@ select option {
     color: white;
 }
 
-.textAreaCurso {
-    width: 450px;
-    height: 250px;
+.textAreaComentario {
+    width: 400px;
+    height: 200px;
     resize: none;
 }
 
@@ -479,6 +481,7 @@ select option {
     margin-top: 3em;
     width: 100%;
     text-align: center;
+    margin-left: 2.3em;
 }
 
 #formularioCurso h1 {
